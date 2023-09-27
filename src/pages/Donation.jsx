@@ -28,7 +28,7 @@ const Donation = () => {
 				</p>
 			) : (
 				<div>
-					<div className='grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-4 md:gap-8 mt-8 mb-8'>
+					<div className='grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-4 mt-8 mb-8 mx-4'>
 						{isShow
 							? donatedList.map(campaign => (
 									<DonatedListDisplay
@@ -45,7 +45,7 @@ const Donation = () => {
 									))}
 					</div>
 					{donatedList.length > 4 && (
-						<div className={isShow && 'hidden'}>
+						<div className={!isShow ? 'block' : 'hidden'}>
 							<button
 								onClick={handleViewBtn}
 								className='block w-30 rounded bg-[#009444] text-white px-4 py-2 mt-10 text-sm font-normal transition hover:scale-105 mx-auto'

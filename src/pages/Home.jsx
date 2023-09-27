@@ -1,5 +1,5 @@
 import { useLoaderData } from "react-router-dom";
-import Banner from "../components/Banner";
+
 import DisplayCampaignList from "../components/displayCampaignList";
 
 
@@ -7,9 +7,8 @@ const Home = () => {
     const donationCampaignList = useLoaderData();
     return (
 			<div>
-				<div className='container mx-auto mt-4'>
-					<Banner />
-					<DisplayCampaignList campaignList = {donationCampaignList}/>
+				<div className='container mx-auto mt-4 px-4'>
+					<DisplayCampaignList campaignList={donationCampaignList} />
 				</div>
 			</div>
 		)

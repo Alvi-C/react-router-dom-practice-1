@@ -10,7 +10,7 @@ const DonatedListDisplay = ({ donatedCampaign }) => {
 	return (
 		<div
 			style={{ backgroundColor: card_bg }}
-			className='flex rounded-lg overflow-hidden w-[400px] md:w-[700px] lg:w-[630px] mx-auto'
+			className='flex rounded-lg overflow-hidden w-full'
 		>
 			<img
 				src={image}
