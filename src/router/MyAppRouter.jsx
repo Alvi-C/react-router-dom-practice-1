@@ -25,6 +25,7 @@ const MyAppRouter = createBrowserRouter([
 			{
 				path: '/stat',
 				element: <Statistics />,
+				loader: () => fetch('./donate.json'),
 			},
 			{
 				path: '/:id',
