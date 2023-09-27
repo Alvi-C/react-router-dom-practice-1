@@ -1,0 +1,141 @@
+[
+	{
+		"id": 1,
+		"image": "https://i.ibb.co/4Kk932b/clean-water-for-children.jpg",
+		"title": "Clean water for children",
+		"category": "Health",
+		"category_bg": "#0052ff33",
+		"card_bg": "#0052ff26",
+		"text_bg": "#0052FF",
+		"description": "Clean water for children is a critical mission aimed at ensuring that every child, regardless of their location or circumstances, has access to safe and clean drinking water. Clean water is not just a basic necessity; it's a fundamental right that forms the foundation of a healthy, thriving life. By supporting initiatives focused on providing clean water to children, we are not only preventing waterborne illnesses but also creating opportunities for education, growth, and a brighter future. Join us in this vital cause to give children the gift of clean water, empowering them to lead healthier and more prosperous lives. Together, we can make a significant impact on the well-being of countless children around the world.",
+		"price": "3000"
+	},
+	{
+		"id": 2,
+		"image": "https://i.ibb.co/H2qm5tT/good-education.png",
+		"title": "Good education",
+		"category": "Education",
+		"category_bg": "#ff444a33",
+		"card_bg": "#ff444a26",
+		"text_bg": "#FF444A",
+		"description": "Good education is the cornerstone of personal growth and societal progress. It goes beyond textbooks and classrooms; it cultivates critical thinking, creativity, and a thirst for knowledge. A quality education equips individuals with the skills they need to navigate an ever-changing world, fostering self-confidence and empowerment. Moreover, it promotes tolerance, understanding, and empathy, paving the way for a more inclusive and harmonious society. Good education is not just about imparting facts; it's about igniting curiosity and a lifelong love of learning. It has the power to transform lives and shape a brighter, more enlightened future for all.",
+		"price": "5000"
+	},
+	{
+		"id": 3,
+		"image": "https://i.ibb.co/Df2YRR0/used-clothing-drive.jpg",
+		"title": "Used Clothing Drive",
+		"category": "Clothing",
+		"category_bg": "#79c23f33",
+		"card_bg": "#79c23f26",
+		"text_bg": "#79C23F",
+		"description": "A Used Clothing Drive is a heartwarming initiative that collects gently worn clothes from generous donors and redistributes them to those in need. It not only promotes sustainability by extending the lifespan of clothing but also provides essential clothing items to individuals and families facing economic hardships. These drives are a testament to the power of community and compassion, demonstrating how a simple act of donating clothes can make a significant difference in someone's life. By participating in a Used Clothing Drive, we not only declutter our own closets but also contribute to the well-being and dignity of those less fortunate, helping them stay warm and comfortable while facing life's challenges.",
+		"price": "2500"
+	},
+
+	{
+		"id": 4,
+		"image": "https://i.ibb.co/FhFkWsL/better-food-for-everyone.jpg",
+		"title": "Better Food for Everyone",
+		"category": "Food",
+		"category_bg": "#f8714733",
+		"card_bg": "#f8714726",
+		"text_bg": "#F87147",
+		"description": "Better Food for Everyone is a rallying call for a more equitable and sustainable food system. It underscores the importance of access to nutritious, fresh, and locally sourced food for all individuals, regardless of their economic circumstances. This initiative seeks to address issues like food deserts, promote healthier eating habits, and support local farmers and producers. By advocating for better food options, we not only enhance people's physical health but also contribute to environmental conservation and foster stronger communities. It's a reminder that collectively, we can create positive change by ensuring that everyone has the opportunity to enjoy nutritious and delicious food, improving the quality of life for individuals and the planet as a whole.",
+		"price": "8000"
+	},
+
+	{
+		"id": 5,
+		"image": "https://i.ibb.co/gtsNy3b/fighting-hunger-together.jpg",
+		"title": "Fighting Hunger Together",
+		"category": "Food",
+		"category_bg": "#f8714733",
+		"card_bg": "#f8714726",
+		"text_bg": "#F87147",
+		"description": "Fighting Hunger Together embodies the collective effort to combat the pervasive issue of hunger that affects millions around the world. This initiative brings communities, organizations, and individuals together in a common mission to provide food security for all. It's a reminder that by working in unity, we can make a significant impact on alleviating hunger and its devastating effects on individuals and families. Through food drives, donations, and support for local food banks, we can ensure that no one goes to bed hungry. Fighting Hunger Together is a call to action, emphasizing our shared responsibility to create a world where everyone has access to the basic necessity of nutritious food, promoting both dignity and hope for a brighter future.",
+		"price": "8000"
+	},
+
+	{
+		"id": 6,
+		"image": "https://i.ibb.co/LZS3cYN/clothing-for-families-in-need.jpg",
+		"title": "Clothing for Families in Need",
+		"category": "Clothing",
+		"category_bg": "#79c23f33",
+		"card_bg": "#79c23f26",
+		"text_bg": "#79C23F",
+		"description": "Clothing for Families in Need is a compassionate endeavor dedicated to providing essential attire to those who are struggling to make ends meet. By collecting and distributing clothing donations, this initiative offers not only warmth and comfort but also a sense of dignity and belonging to individuals and families facing financial hardships. It underscores the importance of community support and solidarity, reminding us that a simple act of giving can help vulnerable families thrive in challenging times. Clothing for Families in Need aims to ensure that every person has access to clean, appropriate clothing, empowering them to face life's challenges with confidence and self-esteem, ultimately fostering stronger and more resilient communities.",
+		"price": "2500"
+	},
+
+	{
+		"id": 7,
+		"image": "https://i.ibb.co/ccZbgLj/education-equality-initiative.jpg",
+		"title": "Education Equality Initiative",
+		"category": "Education",
+		"category_bg": "#ff444a33",
+		"card_bg": "#ff444a26",
+		"text_bg": "#FF444A",
+		"description": "The Education Equality Initiative stands as a powerful commitment to leveling the educational playing field for all. It champions the notion that every individual, regardless of their background or circumstances, should have equal access to quality education. This initiative seeks to address disparities in educational opportunities, promote inclusivity, and bridge gaps in access to resources. By advocating for educational equality, we not only unlock the potential of marginalized communities but also contribute to a more just and prosperous society. The Education Equality Initiative serves as a reminder that every child deserves a fair chance at a bright future, and by working together to break down barriers, we can create a world where talent and potential know no bounds.",
+		"price": "5000"
+	},
+
+	{
+		"id": 8,
+		"image": "https://i.ibb.co/85kQcLK/access-to-medical-care.jpg",
+		"title": "Access to Medical Care",
+		"category": "Health",
+		"category_bg": "#0052ff33",
+		"card_bg": "#0052ff26",
+		"text_bg": "#0052FF",
+		"description": "Access to medical care is a fundamental right that underpins individual well-being and public health. It's about ensuring that everyone, regardless of their socio-economic status, can receive the healthcare they need when they need it. This critical access to medical care helps prevent illness, manage chronic conditions, and save lives. It's a cornerstone of a just and compassionate society, emphasizing that nobody should be denied essential medical attention due to financial constraints. By advocating for and working towards universal access to medical care, we prioritize the health and dignity of all individuals, fostering a society where everyone has the opportunity to live a healthier and happier life.",
+		"price": "3000"
+	},
+
+	{
+		"id": 9,
+		"image": "https://i.ibb.co/HYYyVyC/caring-for-our-seniors.jpg",
+		"title": "Caring for Our Seniors",
+		"category": "Health",
+		"category_bg": "#0052ff33",
+		"card_bg": "#0052ff26",
+		"text_bg": "#0052FF",
+		"description": "Caring for Our Seniors represents a deep commitment to honoring and supporting our elderly population, who have contributed immensely to our communities and society. This initiative recognizes the wisdom, experience, and unique needs of seniors. It's about ensuring that our aging loved ones receive the care, respect, and companionship they deserve as they enter their later years. Whether through home care, senior centers, or community programs, caring for our seniors promotes their physical and emotional well-being while enriching our society by preserving the wisdom and stories of generations past. It's a reminder that by valuing and safeguarding our seniors, we create a more compassionate and interconnected society for all ages.",
+		"price": "3000"
+	},
+	{
+		"id": 10,
+		"image": "https://i.ibb.co/Ldxr53y/books-for-brighter-minds.png",
+		"title": "Books for Brighter Minds",
+		"category": "Education",
+		"category_bg": "#ff444a33",
+		"card_bg": "#ff444a26",
+		"text_bg": "#FF444A",
+		"description": "Books for Brighter Minds is a transformative initiative that champions the power of literacy and education. It recognizes that books are not just repositories of knowledge but also instruments of enlightenment and empowerment. By providing books to individuals, especially children and underserved communities, this initiative opens doors to new worlds, sparks imagination, and fosters a lifelong love for learning. Books for Brighter Minds reminds us that access to quality reading materials is a critical foundation for personal growth and success, paving the way for brighter futures and contributing to the overall advancement of society. It underscores the belief that every book shared is a step towards a more informed, curious, and enriched world.",
+		"price": "5000"
+	},
+	{
+		"id": 11,
+		"image": "https://i.ibb.co/5M2GBPx/warmth-in-winter.jpg",
+		"title": "Warmth support in Winter",
+		"category": "Clothing",
+		"category_bg": "#79c23f33",
+		"card_bg": "#79c23f26",
+		"text_bg": "#79C23F",
+		"description": "Warmth Support in Winter is a heartfelt effort to ensure that individuals facing the harshness of winter have access to the basic necessity of warmth. It involves collecting and distributing warm clothing, blankets, and essential winter supplies to those in need. This initiative not only offers physical comfort but also demonstrates empathy and solidarity with vulnerable populations. By providing the means to stay warm during cold months, we not only protect the health and well-being of individuals but also convey a sense of care and compassion. Warmth Support in Winter serves as a reminder of the power of community support, emphasizing that together, we can make a significant difference in the lives of those who require assistance during the challenging winter season.",
+		"price": "2500"
+	},
+
+	{
+		"id": 12,
+		"image": "https://i.ibb.co/ZhzTkfn/community-kitchen-project.jpg",
+		"title": "Community Kitchen Project",
+		"category": "Food",
+		"category_bg": "#f8714733",
+		"card_bg": "#f8714726",
+		"text_bg": "#F87147",
+		"description": "The Community Kitchen Project is a remarkable initiative that brings people together to combat food insecurity and build stronger communities. It involves setting up communal kitchens where volunteers prepare and distribute nutritious meals to those in need, fostering a sense of togetherness and shared responsibility. This project not only addresses hunger but also promotes social cohesion and support. By sharing meals, we not only nourish bodies but also nourish the bonds that tie us as a community. The Community Kitchen Project serves as a shining example of how collective action can alleviate hunger and strengthen the fabric of our neighborhoods, demonstrating that by working together, we can make a lasting impact on the lives of others.",
+		"price": "8000"
+	}
+]
