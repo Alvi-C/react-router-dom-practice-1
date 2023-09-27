@@ -16,7 +16,8 @@ const CampaignDetails = ({ campaign }) => {
             const isExist = donatedItems.find(item => item.id === campaign.id);
             if(!isExist) {
                 donatedArray.push(...donatedItems, campaign);
-                localStorage.setItem('donatedItemsList', JSON.stringify(donatedArray));
+				localStorage.setItem('donatedItemsList', JSON.stringify(donatedArray));
+				swal('Thank you!', 'You are a beautiful person', 'success')
             }else {
                 swal('Hey!', 'You have already donated in this campaign', 'warning')
             }
@@ -25,13 +26,13 @@ const CampaignDetails = ({ campaign }) => {
 
 	return (
 		<div className='px-4'>
-			<div className='flex flex-col'>
+			<div className='relative'>
 				<img src={image} alt='Featured image' className='w-full' />
-				<div className='h-20 bg-black opacity-70 relative bottom-20'></div>
-                <button
-                    onClick={handleDonation}
+				<div className='h-20 bg-black opacity-70 absolute bottom-0 lg:top-[90.5%] right-0 left-0'></div>
+				<button
+					onClick={handleDonation}
 					style={{ backgroundColor: text_bg }}
-					className='inline-block w-40 py-3 px-4 mb-2 ml-5 rounded-md text-base text-white font-normal relative bottom-36'
+					className='inline-block w-40 py-3 px-4 mb-2 ml-5 rounded-md text-base text-white font-normal absolute bottom-1 left-0'
 				>
 					Donate ${price}
 				</button>
