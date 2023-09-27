@@ -1,11 +1,13 @@
 
 
 const Donation = () => {
-    return (
-        <div>
-            <h1>Donation</h1>
-        </div>
-    );
-};
 
-export default Donation;
+
+	return (
+		<div className='container mx-auto mt-10'>
+
+		</div>
+	)
+}
+
+export default Donation

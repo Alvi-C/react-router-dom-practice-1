@@ -1,12 +1,14 @@
 /* eslint-disable react/prop-types */
 
+import { Link } from "react-router-dom";
+
 
 const CampaignCard = ({ campaign }) => {
-    console.log(campaign);
+
     const {id, image, title, category, category_bg, card_bg, text_bg} = campaign || {};
 
     return (
-			<div>
+			<Link to={`/${id}`}>
 				<div
 					style={{ backgroundColor: card_bg }}
 					className=' rounded-lg overflow-hidden'
@@ -19,7 +21,7 @@ const CampaignCard = ({ campaign }) => {
 					<div className='py-5 px-3'>
 						<span
 							style={{ background: category_bg, color: text_bg }}
-							className='inline-block text-teal-800 py-1 px-4 text-xs font-medium tracking-wide'
+							className='inline-block py-1 px-4 mb-2 rounded-md text-xs font-medium tracking-wide'
 						>
 							{category}
 						</span>
@@ -31,7 +33,7 @@ const CampaignCard = ({ campaign }) => {
 						</h4>
 					</div>
 				</div>
-			</div>
+			</Link>
 		)
 }
 
