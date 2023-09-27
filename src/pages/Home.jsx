@@ -1,11 +1,14 @@
+import Banner from "../components/Banner";
 
 
 const Home = () => {
     return (
-        <div>
-            <h2>Home</h2>
-        </div>
-    );
+			<div>
+				<div className='container mx-auto mt-4'>
+					<Banner/>
+				</div>
+			</div>
+		)
 };
 
 export default Home;
