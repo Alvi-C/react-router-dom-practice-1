@@ -33,7 +33,7 @@ const DonatedListDisplay = ({ donatedCampaign }) => {
 				>
 					${price}
 				</p>
-				<Link to={`/${id}`}>
+				<Link to={`/donate/${id}`}>
 					<button
 						style={{ backgroundColor: text_bg }}
 						className='py-1 px-3 md:py-2 md:px-4 rounded-md text-sm md:text-base text-white font-normal'

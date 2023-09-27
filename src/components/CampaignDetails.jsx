@@ -46,3 +46,22 @@ const CampaignDetails = ({ campaign }) => {
 }
 
 export default CampaignDetails;
+
+
+/*
+<div className='relative'>
+				<img src={image} alt='Featured image' className='w-full' />
+				<div className='h-20 bg-black opacity-70 absolute bottom-0 lg:top-[90.5%] right-0 left-0'></div>
+				<button
+					onClick={handleDonation}
+					style={{ backgroundColor: text_bg }}
+					className='inline-block w-40 py-3 px-4 mb-2 ml-5 rounded-md text-base text-white font-normal absolute bottom-1 left-0'
+				>
+					Donate ${price}
+				</button>
+			</div>
+			<div className='py-8'>
+				<h1 className='text-3xl font-bold mb-2'>{title}</h1>
+				<p>{description}</p>
+			</div>
+*/

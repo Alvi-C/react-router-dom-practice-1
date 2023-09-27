@@ -23,7 +23,7 @@ const DisplayCampaignList = ({ campaignList }) => {
 							alt='Background Image'
 							className='object-cover object-center w-full'
 						/>
-						<div className='absolute inset-0 bg-white opacity-70'></div>
+						<div className='absolute inset-0 bg-white opacity-80'></div>
 					</div>
 
 					<div className='relative z-10 flex flex-col justify-center items-center min-h-[40vh] md:min-h-[70vh] text-center'>

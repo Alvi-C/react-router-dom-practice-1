@@ -11,7 +11,6 @@ const MyAppRouter = createBrowserRouter([
 	{
 		path: '/',
 		element: <MainLayout />,
-		errorElement: <Error />,
 		children: [
 			{
 				path: '/',
@@ -28,9 +27,13 @@ const MyAppRouter = createBrowserRouter([
 				loader: () => fetch('./donate.json'),
 			},
 			{
-				path: '/:id',
+				path: '/donate/:id',
 				element: <DetailsPage />,
 				loader: () => fetch('./donate.json'),
+			},
+			{
+				path: '*',
+				element: <Error />,
 			},
 		],
 	},

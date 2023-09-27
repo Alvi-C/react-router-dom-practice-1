@@ -8,7 +8,7 @@ const CampaignCard = ({ campaign }) => {
     const {id, image, title, category, category_bg, card_bg, text_bg} = campaign || {};
 
     return (
-			<Link to={`/${id}`}>
+			<Link to={`/donate/${id}`}>
 				<div
 					style={{ backgroundColor: card_bg }}
 					className=' rounded-lg overflow-hidden'
